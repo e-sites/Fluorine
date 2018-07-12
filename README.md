@@ -1,4 +1,8 @@
-![Palladium](Assets/logo.png)
+![Fluorine](Assets/logo.png)
+
+Cobalt is part of the **[E-sites iOS Suite](https://github.com/e-sites/iOS-Suite)**.
+
+---
 
 A small UIView helper to create simple linear gradients.
 
