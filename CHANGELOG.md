@@ -1,5 +1,8 @@
 # Changelog Fluorine
 
+## v3.1.0 (05-04-2019)
+- Swift 5.0
+
 ## v3.0.1 (16-07-2018)
 - `Fluorine` class removed
 
