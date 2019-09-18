@@ -1,5 +1,8 @@
 # Changelog Fluorine
 
+## v3.1.1 (18-19-2019)
+- Swift PM
+
 ## v3.1.0 (05-04-2019)
 - Swift 5.0
 
